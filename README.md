@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for StrikeCore.
+Main entry point for Strike--Core.
 """
 
 from core.engine import RapidEngine

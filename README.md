@@ -42,7 +42,7 @@ Core engine for high-speed iteration and powerful operations.
 """
 
 class RapidEngine:
-    """Engine optimiz for fast iteration and scalable performance."""
+    """Engine optimizing for fast iteration and scalable performance."""
 
     def iterate(self, func, items):
         """Apply a function to items with speed-focused iteration."""

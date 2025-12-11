@@ -16,7 +16,7 @@ from core.analysis import PrecisionAnalyzer
 
 def run():
     print("⚡ Welcome to StrikeCore")
-    print("🚀 Fast Iterati | 🧱 Strong Architecture | 🎯 Precision & Power\n")
+    print("🚀 Fast Iteratiod | 🧱 Strong Architecture | 🎯 Precision & Power\n")
 
     engine = RapidEngine()
     analyzer = PrecisionAnalyzer()

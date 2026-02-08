@@ -1,5 +1,5 @@
 # ================================
-# Project: StrikeCore reposi
+# Project: StrikeCore reposit
 # Description:
 # A high-impact repository built for fast iteration, 
 # strong architecture, and projects that strike with precision and power.

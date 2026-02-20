@@ -10,7 +10,7 @@
 Main entry point for Strikecore.
 """
 
-from core.engine import RapidEngine Strike
+from core.engine import RapidEngine Str
 from core.analysis import PrecisionAnalyzer
 
 

@@ -22,7 +22,7 @@ def run():
     analyzer = PrecisionAnalyzer()
 
     # Fast iteration demo
-    print("🔁 Rapid Prototype:", engine.(lambda x: x * 3, [2, 4, 6]))
+    print("🔁 Rapid Prototype:", engine.ite(lambda x: x * 3, [2, 4, 6]))
 
     # Precision analysis demo
     dataset = [10, 20, 30, 40, 50]

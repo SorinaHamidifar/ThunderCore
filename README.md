@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
 # ---------- core/engine.py ----------
 """
-Core engine for high-speed iteration and powerful operations.
+Core engine for high-speed iteration and powerful .
 """
 
 class RapidEngine:

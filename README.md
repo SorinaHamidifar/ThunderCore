@@ -1,7 +1,7 @@
 # ================================
 # Project: StrikeCore
 # Description:
-# A high-impact repository built for fast , 
+# A high-impact repository built for fast it, 
 # strong architecture, and projects that strike with precision and power.
 # ================================
 

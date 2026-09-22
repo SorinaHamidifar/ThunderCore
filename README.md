@@ -11,7 +11,7 @@ Main entry point for Strikecore.
 """
 
 from core.engine import RapidEngine
-from core.analysis import Precision
+from core.analysis import PrecisionAna
 
 
 def run():

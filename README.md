@@ -1,5 +1,5 @@
 # ================================
-# Project: StrikeCore for fast iteration, 
+# Project: StrikeCore for fast iter
 # Description:
 # A high-impact repository built for fast iteration, 
 # strong architecture, and projects that strike with precision and power.

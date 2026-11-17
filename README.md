@@ -1,5 +1,5 @@
 # ================================
-# Project: StrikeCore with precision and power.
+# Project: StrikeCore with precision and 
 # Description:
 # A high-impact repository built for fast iteration, 
 # strong architecture, and projects that strike with precision and power.
